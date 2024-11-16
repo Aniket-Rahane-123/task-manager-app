@@ -25,3 +25,7 @@ A simple Task Manager app built using React and TypeScript. This app allows user
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/task-manager-app.git
+
+## Screenshots
+
+![Screenshot 2024-11-16 200802](https://github.com/user-attachments/assets/28818573-7636-4dc0-baf8-8c67daff94c8)
